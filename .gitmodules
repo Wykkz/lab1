@@ -1,0 +1,3 @@
+[submodule "aebpage"]
+	path = aebpage
+	url = git@github.com:Wykkz/aebpage.git
